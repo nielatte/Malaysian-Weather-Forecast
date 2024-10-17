@@ -7,4 +7,4 @@ I've added some calm music for a relaxing experience.
 
 Oh, and by the way, Particle.js is throwing a tantrum and refuses to work. If anyone can give it a pep talk, I’d be forever grateful!
 
-Feel free to use the source code, and if you want to add your favorite cities, go wild! I can share the JSON file too, so you can tweak the JavaScript as needed. Thanks for stopping by, and may your weather be ever in your favor! 🌈
+Feel free to use the source code, and if you want to add your favorite cities, go wild! I can share the JSON file too, so you can tweak the JavaScript as needed. Thanks for stopping by, and may your weather be ever in your favor! 
