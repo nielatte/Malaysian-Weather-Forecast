@@ -1,12 +1,10 @@
 # Malaysian-Weather-Forecast
-I've created a simple Weather Forecast App using web languange such as html, css and js
+I've created a simple Weather Forecast App using HTML, CSS, and JavaScript. Now, I hit a bit of a snag with CORS (that pesky friend who just won’t let you in), so instead of using a JSON file for my list of cities, I had to cram all 500+ lines of code into my scripts file. Yes, it's a JavaScript jungle in there! 🐒
 
-I had trouble with CORS so i cant use the json file for the lists of cities so i need to put it in my scripts file, Im sorry for the 500+ lines of js.
+This app leans on the Open Meteo API, which plays the latitude and longitude game to find cities. I’ve tracked down the coordinates for 327 Malaysian cities—if your city isn’t in there, don’t worry, it’s not personal; it’s just a city thing! 😅
 
-The weather forecast i used open meteo API, it used a latitude and longtitude to locate the place so i need to determine the lat and lon to pin the cities.
+I've added some calm music for a relaxing experience. 
 
-Other than that, the rest of the scripts its a simple backend and a interactive frontend i added a calm music so you guys can have some fun listening to it, Sorry if your cities is not included :(
+Oh, and by the way, Particle.js is throwing a tantrum and refuses to work. If anyone can give it a pep talk, I’d be forever grateful!
 
-Btw all the cities are in Malaysia if you like to add some feel free to use the source code, There is 327 cities so far. ***Particle-js is not working if you guys can fix it i appreciate it***
-
-I still can give you the JSON file u figure out the what to change in js, thats all then. thank you for stopping by
+Feel free to use the source code, and if you want to add your favorite cities, go wild! I can share the JSON file too, so you can tweak the JavaScript as needed. Thanks for stopping by, and may your weather be ever in your favor! 🌈
